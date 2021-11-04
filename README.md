@@ -7,7 +7,7 @@ A landing page website template for ruby on rails + sql lite databased.
 
 Demo [https://creativitas.vercel.app →](https://creativitas.vercel.app)
 
-Documentation : soon....
+Documentation : [https://www.hockeycomputindo.com/2021/11/ruby-on-rails-free-download-website.html](https://www.hockeycomputindo.com/2021/11/ruby-on-rails-free-download-website.html)
 
 ------------------------------------------------------------
 Home page display 
@@ -24,6 +24,11 @@ Article information content page
 
 ------------------------------------------------------------
 
+Demo [https://creativitas.vercel.app →](https://creativitas.vercel.app)
+
+Documentation : [https://www.hockeycomputindo.com/2021/11/ruby-on-rails-free-download-website.html](https://www.hockeycomputindo.com/2021/11/ruby-on-rails-free-download-website.html)
+
+------------------------------------------------------------
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻
 
